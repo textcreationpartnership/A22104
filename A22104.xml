@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation commanding the repaire of noblemen and gentlemen into their seuerall countreys, at the end of the terme</title>
+            <title>Proclamations. 1614-10-24</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22104</idno>
+            <idno type="STC">STC 8508</idno>
+            <idno type="STC">ESTC S100821</idno>
+            <idno type="EEBO-CITATION">99836648</idno>
+            <idno type="PROQUEST">99836648</idno>
+            <idno type="VID">932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 932)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 832:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation commanding the repaire of noblemen and gentlemen into their seuerall countreys, at the end of the terme</title>
+                  <title>Proclamations. 1614-10-24</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Royston the 24. day of October, in the twelfth yeere of our raigne ..</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Nobility --  Law and legislation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:932:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <figure>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> A Proclamation commanding the repaire of Noblemen and Gentlemen into their ſeuerall Countreys, at the end of the Terme.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is Our Princely Office and care to prouide that all</hi> parts, Eſtats and Degrees of our People bee ſuſtained and cheriſhed, and that they may receiue mutuall comfort the one by the other, eſpecially where the need is moſt: And that the ancient and lawdable cuſtomes of this Our Realme be continued and obſerued, and new inconueniences (which the times doe dayly breed) repreſſed and preuented; Whereas therefore We are giuen to vnderſtand, That there is a great repaire and confluence, aſwell to the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Suburbs of them, as to other Cities within Our Kingdome, of Noblemen and Gentlemen, who are Our principall Miniſters for the gouernment of the ſeuerall Counties of Our Kingdome, in reſpert of Our Commiſſions of Lieutenancie and the Peace: And that their comming is with purpoſe to liue and abide in the ſaid Cities and places with their families for this whole Winter, or at leaſt during the Chriſtmas time; whereby the go<g ref="char:EOLhyphen"/>uernment of the Countreys will be weakened, Hoſpitalitie and the reliefe of the poore (eſpecially at ſuch a time) decayed, and the ſaid Cities, and places ſurcharged and peſtered, and the prices of Victuals there, and all other prouiſions and things exceſſiuely rayſed and inhaunſed: Wee doe by theſe preſents will and command, aſwell all Our Lieutenants and Noblemen (except ſuch as be of Our Priuie Councell, or beare any Office about the Perſon, or Court of Our ſelues, or Our deare and welbeloued Conſort the Queene,) and likewiſe all Deputie Lieutenants, and Juſtices of Peace; That they and euery of them doe immediatly vpon the end of this preſent Terme, being the Nine and twentieth day of Nouember, from the ſaid Cities and places, repaire vnto their ſeue<g ref="char:EOLhyphen"/>rall Countryes to attend their ſeruice there, and to keepe Houſe and Hoſpitalitie, as appertaineth to their place and degree, vpon paine of Our high diſpleaſure, and ſuch puniſhment as is due for the contempt of Our Royall commandement.</p>
+            <closer>
+               <signed>Giuen at Royſton <date>the 24. day of October, in the twelfth yeere of Our Raigne of England, France, and Ireland, and of Scotland the eight and fourtieth.</date>
+               </signed>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie ANNO DOM. 1614.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
